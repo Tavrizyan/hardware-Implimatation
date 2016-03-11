@@ -1,0 +1,1 @@
+call,16;push,15;pop;out,write,9,256,12;ret;
