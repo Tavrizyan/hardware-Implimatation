@@ -14,7 +14,7 @@
 #include "CommandStruct.h"
 #include "Common.h"
 using namespace std;
-
+///////////////hellooooooo
 Common common;
 int core::IP = 0;
 // points at the top of the stack, stack stard from 3000th byte
