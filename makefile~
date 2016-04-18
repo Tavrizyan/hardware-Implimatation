@@ -1,2 +1,0 @@
-all:
-		g++ core.cpp coreRun.cpp CPU.cpp main.cpp -o p
